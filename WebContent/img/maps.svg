@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="20px" viewBox="0 0 15 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>Maps</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Minister" sketch:type="MSArtboardGroup" transform="translate(-531.000000, -527.000000)" fill="#999999">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(510.000000, 300.000000)">
+                <g id="Maps-+-Kemang,-DKI-Jakarta" transform="translate(21.000000, 227.000000)" sketch:type="MSShapeGroup">
+                    <g id="Maps">
+                        <path d="M7.26249164,0 L7.26249164,0 C3.25144006,0 0.0124916388,3.22925795 0.0124916388,7.22830902 C0.0124916388,8.62265128 0.459243146,9.95405449 1.08081046,11.0481774 L5.80569325,19.2011581 C6.10190892,19.7337194 6.69919626,20 7.26249164,20 C7.82583558,20 8.39393839,19.7337194 8.71929003,19.2011581 L13.4441728,11.0530189 C14.0705961,9.95879912 14.5124916,8.65160325 14.5124916,7.23305366 C14.5124916,3.23409941 11.2735432,0 7.26249164,0 L7.26249164,0 Z M7.26249164,9.36339561 C5.80569325,9.36339561 4.61597456,8.17723639 4.61597456,6.72479654 C4.61597456,5.27235668 5.80569325,4.08619746 7.26249164,4.08619746 C8.71929003,4.08619746 9.90900872,5.27235668 9.90900872,6.72479654 C9.90900872,8.18207786 8.71929003,9.36339561 7.26249164,9.36339561 L7.26249164,9.36339561 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

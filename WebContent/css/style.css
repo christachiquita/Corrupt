@@ -1,0 +1,275 @@
+body {
+	background-color:#F3F8F7;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	font-family: 'Helvetica', 'Arial';
+}
+
+h1 {
+	font-size: 24px;
+	line-height: 28px;
+	font-weight: 800;
+	margin-top:0px;
+}
+
+h2 {
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 800;
+	margin-top:15px;
+	margin-bottom: 0px;
+}
+
+h4 {
+	font-size: 18px;
+	line-height: 22px;
+	font-weight: 800;
+	margin-top:0px;
+}
+
+h5, h6 {
+	color:#999999;
+	font-weight: 200;
+}
+
+h5 {
+	font-size: 14px;
+}
+
+h6 {
+	font-size: 12px;
+	margin-top:0px;
+	margin-bottom: 20px;
+}
+
+p {
+	font-size: 12px;
+	line-height: 14px;
+}
+
+p.bold {
+	font-weight: bold;
+}
+
+p.red {
+	color:#ff2b2b;
+}
+
+span {
+	padding-right:10px;
+}
+
+li {
+	list-style-type: none;
+}
+
+a {
+	color:#000000;
+}
+
+.nav-tabs {
+	background-color: #F3F8F7;
+}
+
+
+.row {
+	margin:0px;
+}
+
+.btn, button {
+	border-color:#D8D8D8;
+	height:40px;
+	margin-right: 5px;
+	padding:0px 10px 0px 10px;
+	-webkit-transition:0.2s all ease;
+	-moz-transition:0.2s all ease;
+	-ms-transition:0.2s all ease;
+	-o-transition:0.2s all ease;
+	transition:0.2s all ease;
+}
+
+.btn:hover, .btn:active, .btn:focus, button:hover, button:active, button:focus {
+	background-color: #F3F8F7;
+}
+
+.btn-active, button, .btn:focus {
+	outline: none;
+}
+
+.btn-lg {
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+.btn-danger {
+	background-color:#ff2b2b;
+	color:#ffffff;
+	border-color:#ff2b2b;
+	font-weight: 800px;
+}
+
+.btn-danger:hover {
+	background-color:#ffffff;
+	color:#ff2b2b;
+}
+
+.btn-success {
+	background-color:#5BD5C5;
+	color:#ffffff;
+	border-color:#5BD5C5;
+	font-weight: 800px;
+}
+
+.btn-success:hover {
+	background-color:#ffffff;
+	color:#5BD5C5;
+}
+
+.jumbotron h1, .jumbotron h2 {
+	color:#ffffff;
+	text-shadow: 2px 2px 25px #000000;
+}
+
+.jumbotron h1{
+	margin-top:80px;
+	margin-bottom:20px;
+	font-weight: 800;
+	font-size:48px;
+}
+
+.jumbotron h2{
+	margin-top:20px;
+	font-weight: 200;
+	font-size:24px;
+}
+
+.jumbotron-small {
+	height:100px;
+}
+
+.jumbotron{
+	width: 100%;
+	top:0;
+	left:0;
+	z-index: -1;
+}
+
+.jumbotron-home {
+	background: url('../img/bg_01.jpg') no-repeat center center;	
+}
+
+.jumbotron-project {
+	background: url('../img/bg_02.png') no-repeat center center;
+}
+
+.jumbotron-create {
+	background: url('../img/bg_03.jpg') no-repeat center center;
+}
+
+
+.jumbotron-entity {
+	background: url('../img/bg_04.png') no-repeat center center;
+	height:200px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+.jumbotron-about {
+	background: url('../img/bg_05.jpg') no-repeat center center;	
+}
+
+.progress {
+	height:10px;
+	margin-top:20px;
+	margin-bottom: 0px;
+}
+
+.progress-bar {
+	background-color: #F3F8F7;
+}
+
+.progress-bar-success {
+	background-color:#5BD5C5;
+}
+
+.progress-bar-danger {
+	background-color:#ff2b2b;
+}
+
+.card {
+	background-color: #ffffff;
+	border-radius: 4px;
+	padding:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.card-3 {
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+.logo {
+	height:25px;
+}
+
+.project-img {
+	overflow: hidden;
+	width:100%;
+	margin:20px 0px 20px 0px;
+}
+
+.project-dp {
+	margin-bottom: 10px;
+}
+
+.thumbnail-big {
+	height: 50px;
+}
+
+.description {
+	padding-top:10px;
+	padding-bottom: 10px;
+}
+
+.control-label{
+	font-size : 12px;
+	font-weight: 400;
+}
+
+.input-group-addon {
+	width: 20px;
+	background-color:#F3F8F7;
+}
+
+.form-control {
+	font-size: 12px;
+}
+
+.btn-cancel {
+	color: #ff2b2b;
+	background-color: #ffffff;
+	border: #999999;
+}
+
+.btn-reply {
+	color: #5BD5C5;
+	background-color: #ffffff;
+}
+
+.btn-update {
+	margin-top:20px;
+}
+
+.attachment-file {
+	border-radius: 4px;
+	border:#999999;
+	margin-top:15px;
+	padding:10px;
+}
+
+.sector-nav {
+	height:10px;
+	margin-right: 5px;
+}

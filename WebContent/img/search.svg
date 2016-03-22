@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Minister" sketch:type="MSArtboardGroup" transform="translate(-770.000000, -20.000000)" fill="#999999">
+            <g id="Nav" sketch:type="MSLayerGroup">
+                <g id="Rectangle-6-Copy-6-+-Rectangle-6-Copy-7-+-search-+-Search-Projects" transform="translate(520.000000, 10.000000)" sketch:type="MSShapeGroup">
+                    <g id="Rectangle-6-Copy-7-+-search" transform="translate(240.000000, 0.000000)">
+                        <g id="search" transform="translate(10.000000, 10.000000)">
+                            <path d="M18.8463876,16.6923416 L14.0277259,11.7131129 C13.6710744,11.3445179 13.2058651,11.1568044 12.7383631,11.1490358 C14.5460944,8.36595041 14.2612103,4.55217631 11.8828579,2.09454545 C9.18021861,-0.698126722 4.78283125,-0.698126722 2.08024527,2.09454545 C-0.622394028,4.88721763 -0.622394028,9.43123967 2.08024527,12.2239118 C4.45859771,14.6815427 8.14934684,14.975978 10.8426553,13.1079339 C10.8502266,13.5909642 11.0318315,14.0716804 11.3885364,14.4402755 L16.2071448,19.4195592 C16.9359637,20.1726171 18.1175153,20.1726171 18.8463343,19.4195592 C19.5751533,18.6663912 19.5751533,17.4453994 18.8463876,16.6923416 L18.8463876,16.6923416 Z M10.3747801,10.6655096 C8.503759,12.5988981 5.45939749,12.5988981 3.58837643,10.6655096 C1.71735537,8.73212121 1.71735537,5.58628099 3.58837643,3.65289256 C5.45939749,1.71950413 8.503759,1.71950413 10.3747801,3.65289256 C12.2458011,5.5862259 12.2458011,8.73212121 10.3747801,10.6655096 L10.3747801,10.6655096 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

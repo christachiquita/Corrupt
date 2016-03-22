@@ -1,0 +1,586 @@
+Category,Level1,Level2,Level3,Level4,Total,,A,B,C,D
+,Bangunan,Bahan baku,Batu bata,Batu bata,93,,0,0,0,0
+,Bangunan,Bahan baku,Pasir,Pasir,9,b,,,,0.38
+,Bangunan,Bahan baku,Semen,Semen,14,b,,,,0.893
+,Bangunan,Bahan baku,Cat,Cat,71,b,,,,0.083
+,Bangunan,Bahan baku,Puing,Puing,84,b,,,,54.561
+,Bangunan,Bahan baku,Keramik,Keramik,24,b,,,,-0.052
+,Bangunan,Bahan baku,Kayu,Kayu,23,b,,,,0.105
+,Bangunan,Bahan baku,Kabel,Kabel,39,b,,,,83.099
+,Bangunan,Alat,Kuas,Kuas,38,b,,,,-2.075
+,Bangunan,Alat,Palu,Palu,64,b,,,,0.059
+,Bangunan,Alat,Obeng,Obeng,23,b,,,,-0.146
+,Bangunan,Alat,Bor ,Bor ,9,b,,,,0.146
+,Bangunan,Alat,Gergaji,Gergaji,63,b,,,,61.661
+,Bangunan,Alat,Meteran,Meteran,32,b,,,,0.175
+,Partisi,Pintu,Kayu,Kayu,51,b,,,,-25.456
+,Partisi,Pintu,Engsel,Engsel,55,b,,,,-29.19
+,Partisi,Pintu,Knop,Knop,70,b,,,,2.629
+,Partisi,Pintu,Paku,Paku,30,b,,,,676.467
+,Partisi,Jendela,Kaca,Kaca,6,b,,,,-4.317
+,Partisi,Jendela,Kusen,Kusen,72,b,,,,-2.495
+,Partisi,Jendela,Lem,Lem,17,b,,,,3.026
+,Partisi,Jendela,Paku,Paku,72,b,,,,143.547
+,Ruangan,Kamar mandi,Keramik,Keramik,81,b,,,,-0.16
+,Ruangan,Kamar mandi,Kloset,Kloset,49,b,,,,-3.339
+,Ruangan,Kamar mandi,Bak air,Bak air,25,b,,,,-0.196
+,Ruangan,Dapur,Pipa gas,Pipa gas,100,b,,,,-6.953
+,Ruangan,Dapur,Pipa air,Pipa air,53,b,,,,-3.649
+,Ruangan,Dapur,Kabel,Kabel,57,b,,,,-0.59
+,Ruangan,Dapur,Colokan listrik,Colokan listrik,27,b,,,,-20.844
+,Ruangan,Kamar tidur,Lampu,Lampu,21,b,,,,-6.95
+,Ruangan,Kamar tidur,Karpet,Karpet,67,b,,,,-21.257
+,Ruangan,Kamar tidur,Lemari,Lemari,61,b,,,,-3.933
+,Ruangan,Ruang makan,Meja,Meja,43,b,,,,-0.322
+,Ruangan,Ruang makan,Kursi,Kursi,51,b,,,,-14.103
+,Ruangan,Ruang makan,Tudung saji,Tudung saji,93,b,,,,-2.395
+,Tenaga kerja,Mandor,Full time,Full time,21,g,0,186.3,42.6,228.9
+,Tenaga kerja,Mandor,Full time,Full time,38,g,0,4.5,0.9,5.4
+,Tenaga kerja,Mandor,Part time,Part time,89,,0,0,0,0
+,Tenaga kerja,PM,Full time,Full time,70,b,,,,-194.019
+,Tenaga kerja,PM,Full time,Full time,81,b,,,,-4.082
+,Tenaga kerja,Pekerja,Full time,Full time,37,b,,,,-8.985
+,Tenaga kerja,Pekerja,Part time,Part time,70,b,,,,-0.215
+,Tenaga kerja,Pekerja,Part time,Part time,13,b,,,,-4.4
+,Tenaga kerja,Pekerja,Full time,Full time,23,b,,,,-0.424
+,Tenaga kerja,Supir,Full time,Full time,86,b,,,,-56.194
+,Tenaga kerja,Supir,Part time,Part time,87,b,,,,-54.735
+,Tenaga kerja,Supir,Full time,Full time,47,b,,,,-5.87
+,Lantai dan Dinding,Lantai Dasar,Pelapis Lantai,Granitile,43,,0,0,0,0
+,Lantai dan Dinding,Lantai Dasar,Pelapis Lantai,Granitile,86,b,,,,-194.019
+,Lantai dan Dinding,Lantai Dasar,Pelapis Lantai,Granitile,63,b,,,,-4.082
+,Lantai dan Dinding,Lantai Dasar,Pelapis Lantai,Granitile,89,b,,,,-8.985
+,Lantai dan Dinding,Lantai Dasar,Pelapis Lantai,Crystal,50,b,,,,-0.215
+,Lantai dan Dinding,Lantai Dasar,Pelapis Lantai,Crystal,38,b,,,,-4.4
+,Lantai dan Dinding,Lantai Dasar,Pelapis Lantai,Crystal,37,b,,,,-0.424
+,Lantai dan Dinding,Lantai Dasar,Pelapis Lantai,Crystal,65,b,,,,-56.194
+,Lantai dan Dinding,Lantai Dasar,Keramik,30 x 30,76,b,,,,-54.735
+,Lantai dan Dinding,Lantai Dasar,Keramik,30 x 30,75,b,,,,-5.87
+,Lantai dan Dinding,Lantai Dasar,Keramik,30 x 30,15,b,,,,-10.513
+,Lantai dan Dinding,Lantai Dasar,Keramik,30 x 30,81,b,,,,-20.811
+,Lantai dan Dinding,Lantai Dasar,Keramik,60 x 60,20,b,,,,-0.225
+,Lantai dan Dinding,Lantai Dasar,Keramik,60 x 60,27,b,,,,-0.134
+,Lantai dan Dinding,Lantai Dasar,Keramik,60 x 60,100,b,,,,-1.126
+,Lantai dan Dinding,Lantai Dasar,Keramik,90 x 90,72,b,,,,-5.8
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Granitile,8,b,,,,-0.672
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Granitile,45,b,,,,-3.552
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Granitile,22,b,,,,273.401
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Granitile,53,b,,,,3.761
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Crystal,90,b,,,,264.336
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Crystal,27,b,,,,2.195
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Crystal,32,b,,,,281.418
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Crystal,74,b,,,,0.399
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Roman,48,b,,,,75.119
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Roman,63,b,,,,0.61
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Roman,57,b,,,,0.767
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Roman,22,g,-28.2,0,0,-28.2
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Horse,86,g,0,35.7,36.9,72.6
+,Lantai dan Dinding,Lantai Dasar,Pelapis Dinding,Horse,58,g,0,60,84.1,144.1
+,Lantai dan Dinding,Lantai Dasar,Cat Tembok,Pearl White,65,,0,0,0,0
+,Lantai dan Dinding,Lantai Dasar,Cat Tembok,Pearl White,36,g,0,0.9,0.5,1.4
+,Lantai dan Dinding,Lantai Dasar,Cat Tembok,Pearl White,40,g,0,2.2,4,6.2
+,Lantai dan Dinding,Lantai Dasar,Cat Tembok,Black,56,,0,0,0,0
+,Lantai dan Dinding,Lantai Dasar,Cat Tembok,Black,89,g,0,0.3,0.3,0.6
+,Lantai dan Dinding,Lantai Dasar,Cat Tembok,Cream,48,g,0,0.9,2.3,3.2
+,Lantai dan Dinding,Lantai Dasar,Cat Tembok,Cream,43,,0,0,0,0
+,Lantai dan Dinding,Lantai Dasar,Cat Tembok,Cream,86,b,,,,0.115
+,Lantai dan Dinding,Lantai Dasar,Cat Tembok,Cream,56,b,,,,0.455
+,Lantai dan Dinding,Lantai Dasar,Cat Tembok,Blue,75,b,,,,0.373
+,Lantai dan Dinding,Lantai Dasar,Plint,Black,47,b,,,,0.132
+,Lantai dan Dinding,Lantai Dasar,Plint,Black,85,b,,,,0.051
+,Lantai dan Dinding,Lantai Dasar,Plint,White,40,b,,,,0.947
+,Lantai dan Dinding,Lantai Dasar,Plint,White ,2,b,,,,2.496
+,Lantai dan Dinding,Lantai Dasar,Plint,White,74,,0,0,0,0
+,Lantai dan Dinding,Lantai Dasar,Plint,White,8,,0,0,0,0
+,Lantai dan Dinding,Lantai Dasar,Plint,Yellow,67,,0,0,0,0
+,Lantai dan Dinding,Lantai Dasar,Plint,Yellow,75,,0,0,0,0
+,Lantai dan Dinding,Lantai Dasar,Plint,Green,24,b,,,,0.15
+,Lantai dan Dinding,Lantai Dasar,Plint,Green,8,b,,,,-0.15
+,Lantai dan Dinding,Lantai Dasar,Plint,Green,80,b,,,,0.265
+,Lantai dan Dinding,Lantai Dua,Pelapis Lantai,Granitile,53,b,,,,0.569
+,Lantai dan Dinding,Lantai Dua,Pelapis Lantai,Granitile,72,b,,,,0.144
+,Lantai dan Dinding,Lantai Dua,Pelapis Lantai,Granitile,42,b,,,,0.194
+,Lantai dan Dinding,Lantai Dua,Pelapis Lantai,Granitile,67,b,,,,-0.201
+,Lantai dan Dinding,Lantai Dua,Pelapis Lantai,Crystal,40,b,,,,0.712
+,Lantai dan Dinding,Lantai Dua,Pelapis Lantai,Crystal,11,b,,,,30.314
+,Lantai dan Dinding,Lantai Dua,Pelapis Lantai,Crystal,79,b,,,,0.167
+,Lantai dan Dinding,Lantai Dua,Pelapis Lantai,Crystal,41,b,,,,0.138
+,Lantai dan Dinding,Lantai Dua,Keramik,30 x 30,33,b,,,,-0.051
+,Lantai dan Dinding,Lantai Dua,Keramik,30 x 30,76,,0,0,0,0
+,Lantai dan Dinding,Lantai Dua,Keramik,30 x 30,47,,0,0,0,0
+,Lantai dan Dinding,Lantai Dua,Keramik,30 x 30,11,b,,,,0.175
+,Lantai dan Dinding,Lantai Dua,Keramik,60 x 60,76,b,,,,0.056
+,Lantai dan Dinding,Lantai Dua,Keramik,60 x 60,97,b,,,,0.189
+,Lantai dan Dinding,Lantai Dua,Keramik,60 x 60,89,b,,,,0.2
+,Lantai dan Dinding,Lantai Dua,Keramik,90 x 90,58,b,,,,9.727
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Granitile,18,b,,,,0.282
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Granitile,43,b,,,,10.97
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Granitile,44,b,,,,2.912
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Granitile,20,b,,,,-0.059
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Crystal,97,b,,,,0.068
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Crystal,96,b,,,,-0.056
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Crystal,73,b,,,,-0.175
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Crystal,36,b,,,,0.134
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Roman,18,b,,,,0.061
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Roman,42,b,,,,0.359
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Roman,31,b,,,,2.463
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Roman,71,b,,,,3.181
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Horse,47,b,,,,1.679
+,Lantai dan Dinding,Lantai Dua,Pelapis Dinding,Horse,17,b,,,,0.242
+,Lantai dan Dinding,Lantai Dua,Cat Tembok,Pearl White,54,b,,,,4.161
+,Lantai dan Dinding,Lantai Dua,Cat Tembok,Pearl White,71,b,,,,0.156
+,Lantai dan Dinding,Lantai Dua,Cat Tembok,Pearl White,74,b,,,,0.397
+,Lantai dan Dinding,Lantai Dua,Cat Tembok,Black,12,b,,,,1.936
+,Lantai dan Dinding,Lantai Dua,Cat Tembok,Black,3,b,,,,3.458
+,Lantai dan Dinding,Lantai Dua,Cat Tembok,Cream,49,b,,,,0.077
+,Lantai dan Dinding,Lantai Dua,Cat Tembok,Cream,60,b,,,,0.161
+,Lantai dan Dinding,Lantai Dua,Cat Tembok,Cream,57,b,,,,2.965
+,Lantai dan Dinding,Lantai Dua,Cat Tembok,Cream,86,b,,,,0.343
+,Lantai dan Dinding,Lantai Dua,Cat Tembok,Blue,1,b,,,,0.097
+,Lantai dan Dinding,Lantai Dua,Plint,Black,86,b,,,,0.08
+,Lantai dan Dinding,Lantai Dua,Plint,Black,33,b,,,,2.055
+,Lantai dan Dinding,Lantai Dua,Plint,White,92,b,,,,1.087
+,Lantai dan Dinding,Lantai Dua,Plint,White ,3,b,,,,0.803
+,Lantai dan Dinding,Lantai Dua,Plint,White,89,b,,,,0.468
+,Lantai dan Dinding,Lantai Dua,Plint,White,11,b,,,,282.819
+,Lantai dan Dinding,Lantai Dua,Plint,Yellow,4,b,,,,10.027
+,Lantai dan Dinding,Lantai Dua,Plint,Yellow,75,b,,,,0.474
+,Lantai dan Dinding,Lantai Dua,Plint,Green,90,b,,,,1.09
+,Lantai dan Dinding,Lantai Dua,Plint,Green,1,b,,,,0.2
+,Lantai dan Dinding,Lantai Dua,Plint,Green,46,b,,,,0.344
+,Lantai dan Dinding,Basement,Pelapis Lantai,Roman,43,b,,,,0.418
+,Lantai dan Dinding,Basement,Pelapis Lantai,Roman,29,b,,,,0.374
+,Lantai dan Dinding,Basement,Keramik,Roman,100,b,,,,1.507
+,Lantai dan Dinding,Basement,Keramik,Roman,55,b,,,,0.426
+,Lantai dan Dinding,Basement,Keramik,Horse,37,b,,,,0.526
+,Lantai dan Dinding,Basement,Pelapis Dinding,Horse,52,b,,,,0.069
+,Lantai dan Dinding,Basement,Pelapis Dinding,Pearl White,49,b,,,,0.057
+,Lantai dan Dinding,Basement,Pelapis Dinding,Pearl White,36,g,-337.8,0,0,-337.8
+,Lantai dan Dinding,Basement,Pelapis Dinding,Pearl White,45,g,0,7.1,0,7.1
+,Lantai dan Dinding,Basement,Cat Tembok,Black,67,g,0,391.3,5.7,397
+,Lantai dan Dinding,Basement,Cat Tembok,Black,39,b,,,,0.103
+,Other Spending,Basic research,"Space flight, research, and supporting activities (252)",Space Operations,33,b,,,,4.271
+,Other Spending,Basic research,"Space flight, research, and supporting activities (252)",Science,67,b,,,,5
+,Other Spending,Basic research,"Space flight, research, and supporting activities (252)",Cross Agency Support,1,b,,,,2.921
+,Other Spending,Basic research,"Space flight, research, and supporting activities (252)",Exploration,52,b,,,,3.859
+,Other Spending,Basic research,"Space flight, research, and supporting activities (252)",Education,69,b,,,,0.173
+,Other Spending,Basic research,"Space flight, research, and supporting activities (252)","Construction, Environmental Compliance, and Remediation",4,b,,,,0.545
+,Other Spending,Basic research,"Space flight, research, and supporting activities (252)",Space Technology,21,b,,,,0.519
+,Other Spending,"General economic, commercial and labour ",Deposit insurance (373),Deposit Insurance Fund,100,b,,,,-17.093
+,Other Spending,"General economic, commercial and labour ",Deposit insurance (373),Orderly Liquidation Fund,88,b,,,,1.515
+,Other Spending,"General economic, commercial and labour ",Deposit insurance (373),Credit Union Share Insurance Fund,60,b,,,,-0.139
+,Other Spending,"General economic, commercial and labour ",Deposit insurance (373),Central Liquidity Facility,36,b,,,,-0.11
+,Other Spending,"General economic, commercial and labour ",Deposit insurance (373),Temporary Corporate Credit Union Stabilization Fund,45,b,,,,-0.755
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),"Surveys, Investigations, and Research",50,b,,,,1.141
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),Coastal Impact Assistance,38,b,,,,0.092
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),Salaries and Expenses,33,b,,,,0.268
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),Salaries and Expenses,25,b,,,,0.065
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),Working Capital Fund,54,b,,,,0.102
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),Interior Franchise Fund,49,b,,,,0.388
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),"Operations, Research, and Facilities",9,b,,,,0.105
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),"Operations, Research, and Facilities",91,b,,,,3.12
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),Pacific Coastal Salmon Recovery,80,b,,,,0.076
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),"Procurement, Acquisition and Construction",72,b,,,,1.715
+,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Farm Credit System Insurance Fund,73,b,,,,-0.153
+,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Administrative and Operating Expenses,45,b,,,,0.075
+,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Federal Crop Insurance Corporation Fund,46,b,,,,-0.075
+,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Federal Crop Insurance Corporation Fund,17,b,,,,9.162
+,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Agricultural Credit Insurance Fund Program Account,33,b,,,,0.415
+,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Discrimination Claims Settlement,24,b,,,,1.15
+,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Agricultural Credit Insurance Fund Liquidating Account,84,b,,,,-0.163
+,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Commodity Credit Corporation Fund,55,b,,,,6.522
+,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Agricultural Disaster Relief Fund,57,b,,,,1.395
+,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Salaries and Expenses,83,b,,,,1.207
+,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Tobacco Trust Fund,17,b,,,,0.96
+,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Departmental Administration,53,b,,,,0.082
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),"Deposits of Fees, Inspection and Grading of Farm Products, AMS",94,b,,,,-0.151
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Economic Research Service,45,b,,,,0.086
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),National Agricultural Statistics Service,9,b,,,,0.178
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Salaries and Expenses,86,b,,,,1.135
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Research and Education Activities,92,b,,,,0.337
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Research and Education Activities,47,b,,,,0.478
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Integrated Activities,59,b,,,,0.083
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Extension Activities,68,b,,,,0.613
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Extension Activities,53,b,,,,0.095
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Salaries and Expenses,80,b,,,,0.857
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Salaries and Expenses,99,b,,,,0.27
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Marketing Services,85,b,,,,0.081
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Payments to States and Possessions,71,b,,,,0.054
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),"Expenses and Refunds, Inspection and Grading of Farm Products",6,b,,,,0.15
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Agriculture Buildings and Facilities and Rental Payments,2,b,,,,0.244
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Salaries and Expenses,64,b,,,,0.177
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Office of Civil Rights,83,b,,,,0.054
+,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Office of Inspector General,9,b,,,,0.092
+,Other Spending,"Agriculture, forestry, fishing and hunti","Federal Intergovernmental  Natural Resources, Agriculture (Disc. 2005) (B54)",,87,,0,0,0,0
+,Other Spending,"Agriculture, forestry, fishing and hunti",Federal Intergovernmental  Natural Resources (B59),,65,g,-2.6,0,0,-2.6
+,Other Spending,"Agriculture, forestry, fishing and hunti",Current Operations  Agriculture  Other (Disc. 2005) (E54),,14,,0,0,0,0
+,Other Spending,"Agriculture, forestry, fishing and hunti",Current Operations  State Fish and Game (E55),,4,g,0,3.1,0,3.1
+,Other Spending,"Agriculture, forestry, fishing and hunti",Current Operations  State Forestry (E56),,49,g,0,1.7,0,1.7
+,Other Spending,"Agriculture, forestry, fishing and hunti",Current Operations  Natural Resources  Other (E59),,54,g,0,1.4,5.2,6.5
+,Other Spending,"Agriculture, forestry, fishing and hunti",Construction  Agriculture  Other (Disc. 2005) (F54),,3,,0,0,0,0
+,Other Spending,"Agriculture, forestry, fishing and hunti",Construction  State Fish and Game (F55),,76,g,0,0.1,0,0.1
+,Other Spending,"Agriculture, forestry, fishing and hunti",Construction  State Forestry (F56),,93,g,0,0.1,0,0.1
+,Other Spending,"Agriculture, forestry, fishing and hunti",Construction  Natural Resources  Other (F59),,43,g,0,1,1.4,2.4
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other Capital Outlay  Agriculture  Other (Disc. 2005) (G54),,10,,0,0,0,0
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other Capital Outlay  State Fish and Game (G55),,26,g,0,0.5,0,0.5
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other Capital Outlay  State Forestry (G56),,39,g,0,0.2,0,0.2
+,Other Spending,"Agriculture, forestry, fishing and hunti",Other Capital Outlay  Natural Resources  Other (G59),,46,g,0,0.4,0.9,1.3
+,Other Spending,Fuel and energy,Energy supply (271),Payment Where Specified Energy Property Credit Exceeds Liability for Tax,86,b,,,,2.144
+,Other Spending,Fuel and energy,Energy supply (271),"Grants for Specified Energy Property in Lieu of Tax Credits, Recovery Act",48,b,,,,1.705
+,Other Spending,Fuel and energy,Energy supply (271),"Sale and Transmission of Electric Energy, Southwestern Power Administration",33,b,,,,-0.078
+,Other Spending,Fuel and energy,Energy supply (271),"Sale and Transmission of Electric Energy, Southeastern Power Administration",64,b,,,,-0.179
+,Other Spending,Fuel and energy,Energy supply (271),"Reclamation Fund, All Other, Sale of Electric Energy, Bonneville Power Administration",13,b,,,,-0.09
+,Other Spending,Fuel and energy,Energy supply (271),"Reclamation Fund, All Other, Sale of Power and Other Utilities (WAPA)",86,b,,,,-0.189
+,Other Spending,Fuel and energy,Energy supply (271),Nuclear Waste Disposal Fund,9,b,,,,-0.783
+,Other Spending,Fuel and energy,Energy supply (271),"General Fund Payment  Defense, Decontamination and Decommissioning Fund",37,b,,,,-0.463
+,Other Spending,Fuel and energy,Energy supply (271),Title 17 Innovative Technology Loan Guarantee Program,16,b,,,,0.55
+,Other Spending,Fuel and energy,Energy supply (271),Fossil Energy Research and Development,78,b,,,,1.668
+,Other Spending,Fuel and energy,Energy supply (271),Nondefense Environmental Cleanup,70,b,,,,0.223
+,Other Spending,Fuel and energy,Energy supply (271),Electricity Delivery and Energy Reliability,95,b,,,,0.786
+,Other Spending,Fuel and energy,Energy supply (271),Nuclear Energy,15,b,,,,0.764
+,Other Spending,Fuel and energy,Energy supply (271),Energy Efficiency and Renewable Energy,46,b,,,,1.529
+,Other Spending,Fuel and energy,Energy supply (271),"Energy Transformation Acceleration Fund, Recovery Act",63,b,,,,0.07
+,Other Spending,Fuel and energy,Energy supply (271),Advanced Research Projects Agency,48,b,,,,0.271
+,Other Spending,Fuel and energy,Energy supply (271),Uranium Enrichment Decontamination and Decommissioning Fund,25,b,,,,0.518
+,Other Spending,Fuel and energy,Energy supply (271),"Western Area Power Administration, Borrowing Authority, Recovery Act.",48,b,,,,0.218
+,Other Spending,Fuel and energy,Energy supply (271),"Construction, Rehabilitation, Operation and Maintenance, Western Area Power Administration",70,b,,,,0.31
+,Other Spending,Fuel and energy,Energy supply (271),Tennessee Valley Authority Fund,36,b,,,,0.945
+,Other Spending,Fuel and energy,Energy supply (271),"Rural Electrification and Telephone Loans, Negative Subsidies",3,b,,,,-0.183
+,Other Spending,Fuel and energy,Energy supply (271),Rural Electrification and Telecommunications Liquidating Account,21,b,,,,-0.478
+,Other Spending,Fuel and energy,Energy conservation (272),Energy Efficiency and Renewable Energy,3,b,,,,1.01
+,Other Spending,Fuel and energy,Energy conservation (272),Energy Efficiency and Renewable Energy,31,b,,,,1.682
+,Other Spending,Fuel and energy,Energy conservation (272),Advanced Technology Vehicles Manufacturing Loan Program Account,53,b,,,,0.361
+,Other Spending,Fuel and energy,Energy conservation (272),"Advanced Vehicles, Community Deployment Challenge",3,b,,,,0.15
+,Other Spending,Fuel and energy,Energy conservation (272),Home Energy Retrofit Rebate Program,16,b,,,,0.3
+,Other Spending,Fuel and energy,Emergency energy preparedness (274),Strategic Petroleum Reserve,64,b,,,,0.25
+,Other Spending,Fuel and energy,Emergency energy preparedness (274),SPR Petroleum Account,95,b,,,,0.096
+,Other Spending,Fuel and energy,"Energy information, policy, and regulation (276)",Energy Information Administration,52,b,,,,0.112
+,Other Spending,Fuel and energy,"Energy information, policy, and regulation (276)",Departmental Administration,31,b,,,,0.175
+,Other Spending,Fuel and energy,"Energy information, policy, and regulation (276)",Salaries and Expenses,32,b,,,,1.061
+,Other Spending,Fuel and energy,"Energy information, policy, and regulation (276)","Nuclear Facility Fees, Nuclear Regulatory Commission",40,b,,,,-0.925
+,Other Spending,Fuel and energy,"Energy information, policy, and regulation (276)",Electric Reliability Organization,46,b,,,,0.1
+,Other Spending,Fuel and energy,Rents and royalties on the Outer Continental Shelf (953),Royalties on Outer Continental Shelf Lands,9,b,,,,-5.907
+,Other Spending,Fuel and energy,Rents and royalties on the Outer Continental Shelf (953),"Land and Water Conservation Fund, Rent Receipts, Outer Continental Shelf Lands",5,b,,,,-0.702
+,Other Spending,Fuel and energy,Rents and royalties on the Outer Continental Shelf (953),"Land and Water Conservation Fund, Royalty Receipts, Outer Continental Shelf",85,b,,,,-0.195
+,Other Spending,Fuel and energy,Rents and royalties on the Outer Continental Shelf (953),"Historic Preservation Fund, Rent Receipts, Outer Continental Shelf Lands",61,b,,,,-0.15
+,Other Spending,Fuel and energy,Federal Intergovernmental  Electric Utilities (B92),,48,g,-0.2,0,0,-0.2
+,Other Spending,Fuel and energy,Federal Intergovernmental  Gas Utilities (B93),,85,,0,0,0,0
+,Other Spending,Fuel and energy,Current Operations  Electric Utilities (E92),,35,g,0,11.1,51.6,62.7
+,Other Spending,Fuel and energy,Current Operations  Gas Utilities (E93),,53,g,0,0,8.2,8.2
+,Other Spending,Fuel and energy,Construction  Electric Utilities (F92),,58,g,0,0.8,6,6.8
+,Other Spending,Fuel and energy,Construction  Gas Utilities (F93),,75,g,0,0,0.5,0.5
+,Other Spending,Fuel and energy,Other Capital Outlay  Electric Utilities (G92),,78,g,0,0.2,1.3,1.5
+,Other Spending,Fuel and energy,Other Capital Outlay  Gas Utilities (G93),,11,g,0,0,0.2,0.2
+,Other Spending,Fuel and energy,Electric Utilities  Interest on Debt (I92),,31,g,0,1.2,3.7,4.9
+,Other Spending,Fuel and energy,Gas Utilities  Interest on Debt (I93),,97,g,0,0,0.4,0.4
+,Other Spending,"Mining, manufacturing and construction",,,21,,0,0,0,0
+,Other Spending,Communication,Postal Service (372),"Postal Service Contributions for Benefits Paid to Retirees, Postal Service Retiree Health Benefits Fund",100,b,,,,-0.876
+,Other Spending,Communication,Postal Service (372),Payment to Postal Service Fund,60,b,,,,0.078
+,Other Spending,Communication,Postal Service (372),Office of Inspector General of the United States Postal Service,37,b,,,,0.241
+,Other Spending,Communication,Postal Service (372),Postal Service Fund,58,b,,,,-6.912
+,Other Spending,Communication,Postal Service (372),Unspecified Adjustments to Operations,94,b,,,,2.037
+,Other Spending,Other industries,Current Operations  Liquor Stores (E90),,47,g,0,5.6,1.2,6.9
+,Other Spending,Other industries,Construction  Liquor Stores (F90),,3,g,0,0,0,0
+,Other Spending,Other industries,Other Capital Outlay  Liquor Stores (G90),,86,g,0,0,0,0
+,Other Spending,R&D Economic affairs,,,67,,0,0,0,0
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Continued Dumping and Subsidy Offset,51,b,,,,0.126
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Terrorism Insurance Program,33,b,,,,0.245
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Office of Financial Stability,27,b,,,,0.291
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),State Small Business Credit Initiative,90,b,,,,0.251
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Financial Research Fund,23,b,,,,0.154
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,68,b,,,,0.582
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Business Loans Program Account,72,b,,,,0.491
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Commodity Futures Trading Commission,39,b,,,,0.297
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Universal Service Fund,89,b,,,,1.867
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Universal Service Fund,35,b,,,,7.795
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,41,b,,,,0.158
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,57,b,,,,0.105
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Investor Protection Fund,13,b,,,,0.133
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Public Company Accounting Oversight Board,66,b,,,,0.236
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Securities Investor Protection Corporation,51,b,,,,0.299
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Travel Promotion Fund,78,b,,,,0.1
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Bureau of Consumer Financial Protection Fund,26,b,,,,0.394
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Operations and Administration,14,b,,,,-0.198
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),"Spectrum Auction Receipts, Public Safety Trust Fund",82,b,,,,-1.216
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Operations and Administration,29,b,,,,0.497
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Operations and Administration,40,b,,,,0.068
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Promote and Develop Fishery Products and Research Pertaining to American Fisheries,45,b,,,,-0.071
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Promote and Develop Fishery Products and Research Pertaining to American Fisheries,40,b,,,,0.071
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Scientific and Technical Research and Services,6,b,,,,0.705
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Wireless Innovation (WIN) Fund,73,b,,,,-0.288
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Construction of Research Facilities,66,b,,,,0.182
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Industrial Technology Services,11,b,,,,0.156
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),National Network for Manufacturing Innovation,35,b,,,,0.208
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,65,b,,,,0.056
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),State and Local Implementation Fund,97,b,,,,-0.16
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,53,b,,,,0.062
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),"Broadband Technology Opportunities Program, Recovery Act",30,b,,,,1.159
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Incentive Auction Relocation Fund,53,b,,,,-0.5
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Public Safety Trust Fund,36,b,,,,1.216
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,84,b,,,,0.259
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Periodic Censuses and Programs,64,b,,,,0.717
+,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,70,b,,,,0.1
+,Other Spending,Economic affairs n.e.c.,Sale of major assets (954),Proceeds from Sale of Securities from the AIG Credit Facility Trust,35,b,,,,-4.035
+,Other Spending,Economic affairs n.e.c.,Sale of major assets (954),Asset Sale Proceeds,51,b,,,,-0.12
+,Other Spending,Economic affairs n.e.c.,Other undistributed offsetting receipts (959),Auction Receipts,79,b,,,,-0.425
+,Other Spending,Economic affairs n.e.c.,Other undistributed offsetting receipts (959),Spectrum License User Fees,57,b,,,,-0.2
+,Other Spending,Economic affairs n.e.c.,"Current Operations  Miscellaneous Commercial Activities, NEC (E03)",,64,g,0,2.5,5.5,8
+,Other Spending,Economic affairs n.e.c.,"Construction  Miscellaneous Commercial Activities, NEC (F03)",,7,g,0,0.2,0.2,0.3
+,Other Spending,Economic affairs n.e.c.,"Other Capital Outlay  Miscellaneous Commercial Activities, NEC (G03)",,86,g,0,0,0,0.1
+,Other Spending,Waste management,Current Operations  Solid Waste Management (E81),,12,g,0,2.8,24.2,26.9
+,Other Spending,Waste management,Construction  Solid Waste Management (F81),,28,g,0,0.2,1.3,1.5
+,Other Spending,Waste management,Other Capital Outlay  Solid Waste Management (G81),,77,g,0,0,1.1,1.2
+,Other Spending,Waste water management,Federal Intergovernmental  Sewerage (B80),,89,g,-3.4,0,0,-3.4
+,Other Spending,Waste water management,Current Operations  Sewerage (E80),,78,g,0,0.7,30.6,31.3
+,Other Spending,Waste water management,Construction  Sewerage (F80),,63,g,0,0.9,22.6,23.5
+,Other Spending,Waste water management,Other Capital Outlay  Sewerage (G80),,56,g,0,0,2.1,2.1
+,Other Spending,Pollution abatement,Pollution control and abatement (304),State and Tribal Assistance Grants,69,b,,,,3.876
+,Other Spending,Pollution abatement,Pollution control and abatement (304),Science and Technology,72,b,,,,0.812
+,Other Spending,Pollution abatement,Pollution control and abatement (304),Environmental Programs and Management,66,b,,,,2.743
+,Other Spending,Pollution abatement,Pollution control and abatement (304),Payment to the Hazardous Substance Superfund,13,b,,,,1.011
+,Other Spending,Pollution abatement,Pollution control and abatement (304),Working Capital Fund,12,b,,,,0.061
+,Other Spending,Pollution abatement,Pollution control and abatement (304),"Recoveries, Hazardous Substance Superfund",12,b,,,,-0.104
+,Other Spending,Pollution abatement,Pollution control and abatement (304),"Interfund Transactions, Hazardous Substance Superfund",32,b,,,,-1.011
+,Other Spending,Pollution abatement,Pollution control and abatement (304),Hazardous Substance Superfund,98,b,,,,0.211
+,Other Spending,Pollution abatement,Pollution control and abatement (304),Hazardous Substance Superfund,94,b,,,,1.202
+,Other Spending,Pollution abatement,Pollution control and abatement (304),Leaking Underground Storage Tank Trust Fund,91,b,,,,0.106
+,Other Spending,Pollution abatement,Pollution control and abatement (304),Maritime Oil Spill Programs,73,b,,,,0.155
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Rent and Bonuses from Land Leases for Resource Exploration and Extraction,98,b,,,,-0.065
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),"Royalties on Natural Resources, not Otherwise Classified",96,b,,,,-0.377
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),"Reclamation Fund, Royalties on Natural Resources",14,b,,,,-1.732
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),"Receipts from Mineral Leasing, Public Lands",45,b,,,,-2.184
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),"Payment from the General Fund, Cooperative Endangered Species Conservation Fund",52,b,,,,-0.057
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Natural Resources Damages from Legal Actions,3,b,,,,-0.057
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),"Land Sales, Southern Nevada Public Land Management",65,b,,,,-0.1
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Resource Management,31,b,,,,1.327
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),State and Tribal Wildlife Grants,49,b,,,,0.079
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Land Acquisition,7,b,,,,0.096
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Cooperative Endangered Species Conservation Fund,31,b,,,,0.09
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Cooperative Endangered Species Conservation Fund,31,b,,,,0.053
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Offshore Safety and Environmental Enforcement,88,b,,,,0.074
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Management of Lands and Resources,66,b,,,,0.991
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Oregon and California Grant Lands,99,b,,,,0.112
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Permanent Operating Funds,97,b,,,,0.219
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Ocean Energy Management,51,b,,,,0.077
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Operation of Indian Programs,36,b,,,,0.174
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Regulation and Technology,56,b,,,,0.081
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Payments to States in Lieu of Coal Fee Receipts,23,b,,,,0.082
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Abandoned Mine Reclamation Fund,47,b,,,,0.153
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Wildland Fire Management,35,b,,,,0.849
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Natural Resource Damage Assessment Fund,55,b,,,,0.061
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),National Forest Fund,100,b,,,,0.054
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),"National Forests Fund, Payments to States",26,b,,,,-0.07
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),National Grasslands,39,b,,,,-0.062
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Commodity Credit Corporation Fund,46,b,,,,2.196
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Conservation Operations,89,b,,,,0.816
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Farm Security and Rural Investment Programs,49,b,,,,-0.128
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Farm Security and Rural Investment Programs,52,b,,,,3.309
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Capital Improvement and Maintenance,20,b,,,,0.47
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Forest and Rangeland Research,88,b,,,,0.331
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),State and Private Forestry,19,b,,,,0.309
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),State and Private Forestry,22,b,,,,0.12
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),National Forest System,88,b,,,,1.68
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Wildland Fire Management,99,b,,,,2.383
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Forest Service Permanent Appropriations,100,b,,,,0.094
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Land Acquisition,31,b,,,,0.07
+,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Forest Service Trust Funds,17,b,,,,0.127
+,Other Spending,R&D Environmental protection,,,15,,0,0,0,0
+,Other Spending,Environmental protection n.e.c.,,,81,,0,0,0,0
+,Other Spending,Housing development,Mortgage credit (371),GSE Fees Pursuant to P.L. 11278 Sec. 401,80,b,,,,-1.479
+,Other Spending,Housing development,Mortgage credit (371),"Proceeds, GSE Equity Related Transactions",14,b,,,,-21.69
+,Other Spending,Housing development,Mortgage credit (371),GSE Preferred Stock Purchase Agreements,8,b,,,,12.7
+,Other Spending,Housing development,Mortgage credit (371),"FHAgeneral and Special Risk, Negative Subsidies",64,b,,,,-0.588
+,Other Spending,Housing development,Mortgage credit (371),"GNMAguarantees of Mortgage Backed Securities Guarantee Loans, Negative Subsidies",23,b,,,,-0.55
+,Other Spending,Housing development,Mortgage credit (371),Guarantees of Mortgagebacked Securities Loan Guarantee Program Account,83,b,,,,-0.067
+,Other Spending,Housing development,Mortgage credit (371),Guarantees of Mortgagebacked Securities Liquidating Account,60,b,,,,0.197
+,Other Spending,Housing development,Mortgage credit (371),FHAmutual Mortgage Insurance Program Account,53,b,,,,0.136
+,Other Spending,Housing development,Mortgage credit (371),FHAmutual Mortgage Insurance Capital Reserve Account,90,b,,,,-8.188
+,Other Spending,Housing development,Mortgage credit (371),FHAmutual Mortgage Insurance Capital Reserve Account,57,b,,,,-0.152
+,Other Spending,Housing development,Mortgage credit (371),FHAmutual Mortgage and Cooperative Housing Insurance Funds Liquidating Account,38,b,,,,0.052
+,Other Spending,Housing development,Mortgage credit (371),FHAgeneral and Special Risk Insurance Funds Liquidating Account,32,b,,,,0.06
+,Other Spending,Housing development,Mortgage credit (371),Housing for the Elderly or Handicapped Fund Liquidating Account,65,b,,,,-0.54
+,Other Spending,Housing development,Mortgage credit (371),"Federal Housing Finance Agency, Administrative Expenses",49,b,,,,0.236
+,Other Spending,Housing development,Mortgage credit (371),"Rural Housing Insurance, Negative Subsidies",24,b,,,,-0.062
+,Other Spending,Housing development,Mortgage credit (371),Rural Housing Insurance Fund Program Account,37,b,,,,0.506
+,Other Spending,Housing development,Mortgage credit (371),Rural Housing Insurance Fund Liquidating Account,72,b,,,,-0.56
+,Other Spending,Community development,Community development (451),Community Development Financial Institutions Fund Program Account,1,b,,,,0.209
+,Other Spending,Community development,Community development (451),Research and Technology,74,b,,,,0.059
+,Other Spending,Community development,Community development (451),Lead Hazard Reduction,87,b,,,,0.13
+,Other Spending,Community development,Community development (451),Office of Inspector General,99,b,,,,0.128
+,Other Spending,Community development,Community development (451),Community Planning and Development Personnel Compensation and Benefits,86,b,,,,0.104
+,Other Spending,Community development,Community development (451),Transformation Initiative,58,b,,,,0.101
+,Other Spending,Community development,Community development (451),Working Capital Fund,4,b,,,,0.284
+,Other Spending,Community development,Community development (451),Community Development Fund,29,b,,,,5.704
+,Other Spending,Community development,Community development (451),Neighborhood Stabilization Program,44,b,,,,5.548
+,Other Spending,Community development,Community development (451),Payment to Neighborhood Reinvestment Corporation,14,b,,,,0.213
+,Other Spending,Community development,Area and regional development (452),"Return of Principal from Private Sector Investments, Tribal Special Fund",25,b,,,,-0.315
+,Other Spending,Community development,Area and regional development (452),"Power Revenues, Indian Irrigation Projects",29,b,,,,-0.07
+,Other Spending,Community development,Area and regional development (452),"Return of Principal from Private Sector Investments, Tribal Trust Fund",59,b,,,,-0.097
+,Other Spending,Community development,Area and regional development (452),Operation of Indian Programs,39,b,,,,0.157
+,Other Spending,Community development,Area and regional development (452),Operation of Indian Programs,58,b,,,,1.206
+,Other Spending,Community development,Area and regional development (452),Construction,23,b,,,,0.196
+,Other Spending,Community development,Area and regional development (452),Miscellaneous Permanent Appropriations,97,b,,,,0.1
+,Other Spending,Community development,Area and regional development (452),Trust Land Consolidation Fund,18,b,,,,0.35
+,Other Spending,Community development,Area and regional development (452),Tribal Special Fund,96,b,,,,0.339
+,Other Spending,Community development,Area and regional development (452),Tribal Trust Fund,2,b,,,,0.104
+,Other Spending,Community development,Area and regional development (452),Appalachian Regional Commission,50,b,,,,0.063
+,Other Spending,Community development,Area and regional development (452),National Infrastructure Bank Program Account,73,b,,,,0.107
+,Other Spending,Community development,Area and regional development (452),Salaries and Expenses,80,b,,,,0.218
+,Other Spending,Community development,Area and regional development (452),"Distance Learning, Telemedicine, and Broadband Program",88,b,,,,0.709
+,Other Spending,Community development,Area and regional development (452),"Distance Learning, Telemedicine, and Broadband Program",78,b,,,,0.075
+,Other Spending,Community development,Area and regional development (452),Rural Water and Waste Disposal Program Account,73,b,,,,0.933
+,Other Spending,Community development,Area and regional development (452),Rural Water and Waste Disposal Program Account,36,b,,,,0.113
+,Other Spending,Community development,Area and regional development (452),Rural Development Insurance Fund Liquidating Account,70,b,,,,-0.126
+,Other Spending,Community development,Area and regional development (452),Rural Community Facilities Program Account,29,b,,,,0.065
+,Other Spending,Community development,Area and regional development (452),Rural Business Program Account,64,b,,,,0.086
+,Other Spending,Community development,Area and regional development (452),Energy Assistance Payments,42,b,,,,0.129
+,Other Spending,Community development,Area and regional development (452),Rural Economic Development Grants,60,b,,,,-0.161
+,Other Spending,Community development,Area and regional development (452),Biorefinery Assistance Program Account,87,b,,,,0.06
+,Other Spending,Community development,Area and regional development (452),Economic Development Assistance Programs,92,b,,,,0.444
+,Other Spending,Community development,Disaster relief and insurance (453),Office of Health Affairs,75,b,,,,0.166
+,Other Spending,Community development,Disaster relief and insurance (453),National Protection and Programs Directorate,40,b,,,,0.053
+,Other Spending,Community development,Disaster relief and insurance (453),National Flood Insurance Fund,65,b,,,,-0.364
+,Other Spending,Community development,Disaster relief and insurance (453),Flood Hazard Mapping and Risk Analysis Program,76,b,,,,0.115
+,Other Spending,Community development,Disaster relief and insurance (453),State and Local Programs,38,b,,,,5.735
+,Other Spending,Community development,Disaster relief and insurance (453),Salaries and Expenses,92,b,,,,0.761
+,Other Spending,Community development,Disaster relief and insurance (453),Disaster Relief,8,b,,,,0.611
+,Other Spending,Community development,Disaster relief and insurance (453),Disaster Relief,25,b,,,,9.349
+,Other Spending,Community development,Disaster relief and insurance (453),Disaster Assistance Direct Loan Program Account,96,b,,,,0.053
+,Other Spending,Community development,Disaster relief and insurance (453),Radiological Emergency Preparedness Program,1,b,,,,0.051
+,Other Spending,Community development,Disaster relief and insurance (453),National Predisaster Mitigation Fund,21,b,,,,0.16
+,Other Spending,Community development,Disaster relief and insurance (453),First Responder Stabilization Fund,52,b,,,,0.399
+,Other Spending,Community development,Disaster relief and insurance (453),Disaster Loans Program Account,6,b,,,,0.285
+,Other Spending,Community development,Disaster relief and insurance (453),Emergency Conservation Program,8,b,,,,0.101
+,Other Spending,Community development,Current Operations  Parking Facilities (E60),,28,g,0,0,1.4,1.4
+,Other Spending,Community development,Construction  Parking Facilities (F60),,32,g,0,0,0.3,0.3
+,Other Spending,Community development,Other Capital Outlay  Parking Facilities (G60),,41,g,0,0,0.1,0.1
+,Other Spending,Water supply,Water resources (301),"Reclamation Fund, Other Proprietary Receipts from the Public",14,b,,,,-0.128
+,Other Spending,Water supply,Water resources (301),"Revenues, Colorado River Dam Fund, Boulder Canyon Project",6,b,,,,-0.111
+,Other Spending,Water supply,Water resources (301),Policy and Administration,83,b,,,,0.06
+,Other Spending,Water supply,Water resources (301),Reclamation Water Settlements Fund,75,b,,,,0.06
+,Other Spending,Water supply,Water resources (301),"Colorado River Dam Fund, Boulder Canyon Project",40,b,,,,0.104
+,Other Spending,Water supply,Water resources (301),Water and Related Resources,24,b,,,,0.921
+,Other Spending,Water supply,Water resources (301),Mississippi River and Tributaries,19,b,,,,0.56
+,Other Spending,Water supply,Water resources (301),Investigations,67,b,,,,0.123
+,Other Spending,Water supply,Water resources (301),Construction,70,b,,,,2.602
+,Other Spending,Water supply,Water resources (301),Operation and Maintenance,10,b,,,,1.957
+,Other Spending,Water supply,Water resources (301),Expenses,34,b,,,,0.183
+,Other Spending,Water supply,Water resources (301),Flood Control and Coastal Emergencies,55,b,,,,1.479
+,Other Spending,Water supply,Water resources (301),Regulatory Program,11,b,,,,0.212
+,Other Spending,Water supply,Water resources (301),Coastal Wetlands Restoration Trust Fund,38,b,,,,0.11
+,Other Spending,Water supply,Water resources (301),Inland Waterways Trust Fund,17,b,,,,0.097
+,Other Spending,Water supply,Water resources (301),"Contributions, Rivers and Harbors, Other Than Port and Harbor User Fees",49,b,,,,-0.45
+,Other Spending,Water supply,Water resources (301),Rivers and Harbors Contributed Funds,97,b,,,,0.456
+,Other Spending,Water supply,Water resources (301),Harbor Maintenance Trust Fund,73,b,,,,0.839
+,Other Spending,Water supply,Water resources (301),Watershed Rehabilitation Program,63,b,,,,0.053
+,Other Spending,Water supply,Water resources (301),Watershed and Flood Prevention Operations,67,b,,,,0.164
+,Other Spending,Water supply,Federal Intergovernmental  Water Utilities (B91),,92,g,-1.7,0,0,-1.7
+,Other Spending,Water supply,Current Operations  Water Utilities (E91),,73,g,0,0.2,39.1,39.3
+,Other Spending,Water supply,Construction  Water Utilities (F91),,39,g,0,0,11.5,11.5
+,Other Spending,Water supply,Other Capital Outlay  Water Utilities (G91),,93,g,0,0,2.2,2.2
+,Other Spending,Water supply,Water Utilities  Interest on Debt (I91),,51,g,0,0.1,6.6,6.8
+,Other Spending,Street lighting,,,18,,0,0,0,0
+,Other Spending,R&D Housing and community amenities,,,39,,0,0,0,0
+,Other Spending,Housing and community amenities n.e.c.,,,8,,0,0,0,0
+,Other Spending,Recreational and sporting services,Recreational resources (303),"Recreation Enhancement Fee, National Park System",44,b,,,,-0.172
+,Other Spending,Recreational and sporting services,Recreational resources (303),Park Concessions Franchise Fees,97,b,,,,-0.07
+,Other Spending,Recreational and sporting services,Recreational resources (303),Federal Aid in Wildlife Restoration,20,b,,,,0.424
+,Other Spending,Recreational and sporting services,Recreational resources (303),Migratory Bird Conservation Account,89,b,,,,0.059
+,Other Spending,Recreational and sporting services,Recreational resources (303),Sport Fish Restoration,10,b,,,,0.5
+,Other Spending,Recreational and sporting services,Recreational resources (303),Operation of the National Park System,32,b,,,,2.276
+,Other Spending,Recreational and sporting services,Recreational resources (303),Construction (and Major Maintenance),5,b,,,,0.279
+,Other Spending,Recreational and sporting services,Recreational resources (303),National Recreation and Preservation,64,b,,,,0.063
+,Other Spending,Recreational and sporting services,Recreational resources (303),Land Acquisition and State Assistance,53,b,,,,0.064
+,Other Spending,Recreational and sporting services,Recreational resources (303),Historic Preservation Fund,20,b,,,,0.081
+,Other Spending,Recreational and sporting services,Recreational resources (303),Other Permanent Appropriations,70,b,,,,0.179
+,Other Spending,Recreational and sporting services,Recreational resources (303),Recreation Fee Permanent Appropriations,81,b,,,,0.158
+,Other Spending,Recreational and sporting services,Recreational resources (303),"Recreational Fee Demonstration Program, Forest Service",85,b,,,,-0.062
+,Other Spending,Recreational and sporting services,Recreational resources (303),Forest Service Permanent Appropriations,62,b,,,,0.062
+,Other Spending,Recreational and sporting services,Current Operations  Parks and Recreation (E61),,33,g,0,4.2,25.6,29.7
+,Other Spending,Recreational and sporting services,Construction  Parks and Recreation (F61),,21,g,0,0.7,7.5,8.3
+,Other Spending,Recreational and sporting services,Other Capital Outlay  Parks and Recreation (G61),,63,g,0,0.3,2.3,2.6
+,Other Spending,Cultural services,,,18,,0,0,0,0
+,Other Spending,Broadcasting and publishing services,,,82,,0,0,0,0
+,Other Spending,Religious and other community services,,,45,,0,0,0,0
+,Other Spending,"R&D Recreation, culture and religion",,,46,,0,0,0,0
+,Other Spending,"Recreation, culture and religion n.e.c.",,,92,,0,0,0,0
+,Other Spending,R&D General public services,,,59,,0,0,0,0
+,Other Spending,General public services n.e.c.,Deductions for offsetting receipts (809),,63,b,0,0,0,-1.8
+,Other Spending,General public services n.e.c.,General revenue sharing (851),,89,,0,0,0,0
+,Other Spending,General public services n.e.c.,Other general purpose fiscal assistance (852),,85,,0,0,0,0
+,Other Spending,General public services n.e.c.,Central Federal credit activities (871),,25,,0,0,0,0
+,Other Spending,General public services n.e.c.,Financial stabilization efforts (891),,64,,0,0,0,0
+,Other Spending,General public services n.e.c.,Disaster costs (892),,10,,0,0,0,0
+,Other Spending,General public services n.e.c.,Bipartisan economic security plan (921),,82,b,0,0,0,0
+,Other Spending,General public services n.e.c.,Allowance for anticipated supplemental (922),,7,,0,0,0,0
+,Other Spending,General public services n.e.c.,National emergency reserve (923),,92,,0,0,0,0
+,Other Spending,General public services n.e.c.,Spectrum relocation (924),,43,b,0,0,0,0
+,Other Spending,General public services n.e.c.,Debt collection initiatives (925),,21,b,0,0,0,1.6
+,Other Spending,General public services n.e.c.,Adjustment to certain passthrough accounts (926),,70,,0,0,0,0
+,Other Spending,General public services n.e.c.,Contingent offset for the refundable portion of the Lantai dan Dinding tax credit (927),,49,,0,0,0,0
+,Other Spending,General public services n.e.c.,Contingencies for other requirements (928),,66,,0,0,0,0
+,Other Spending,General public services n.e.c.,Other allowances (929),,71,b,0,0,0,0
+,Other Spending,General public services n.e.c.,Current Operations  General  Other (E89),,85,g,0,43.6,68.6,112.2
+,Other Spending,General public services n.e.c.,Construction  General  Other (F89),,10,g,0,1.5,14.6,16.1
+,Other Spending,General public services n.e.c.,Other Capital Outlay  General  Other (G89),,71,g,0,0.7,7.1,7.8
+,Other Spending,Transfers of a general character between,Federal Intergovernmental  All Other (B89),,13,g,-41.2,0,0,-41.2
+,Interest,Public debt transactions,Interest on Treasury debt securities (gross) (901),Interest on Treasury Debt Securities (gross),100,b,,,,283.936
+,Interest,Public debt transactions,Interest on Treasury debt securities (gross) (901),Interest Paid to Trust Fund Receipt Accounts  Shadow Account,80,b,,,,172.946
+,Interest,Public debt transactions,Interest on Treasury debt securities (gross) (901),Interest Paid to Expenditure Accounts  Shadow Account,8,b,,,,4.043
+,Interest,Public debt transactions,Interest on Treasury debt securities (gross) (901),Interest Paid to Federal Fund Receipt Accounts  Shadow Account,90,b,,,,11.115
+,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Interest Received by Trust Fund, FSMI Fund",32,b,,,,-2.561
+,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"FHI Trust Fund, Interest Received by Trust Funds",71,b,,,,-10.042
+,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Unemployment Trust Fund, Interest and Profits on Investments in Public Debt Securities",45,b,,,,-0.431
+,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Earnings on Investments, Military Retirement Fund",46,b,,,,-17.152
+,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Interest, Airport and Airway Trust Fund",46,b,,,,-0.226
+,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"NSLI Fund, Interest",66,b,,,,-0.317
+,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"FFB, TVA, and USPS Interest, Civil Service Retirement and Disability Fund",65,b,,,,-0.329
+,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Treasury Interest, Civil Service Retirement and Disability Fund",94,b,,,,-31.838
+,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Interest and Profits on Investments, Hazardous Substance Superfund",96,b,,,,-0.111
+,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Earnings on Investments, Leaking Underground Storage Tank Trust Fund",35,b,,,,-0.11
+,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Interest and Profits on Investments, Vaccine Injury Compensation Trust Fund",37,b,,,,-0.074
+,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Interest on Investments, Foreign Service Retirement and Disability Fund",8,b,,,,-0.785
+,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Earnings on Investments, Harbor Maintenance Trust Fund",50,b,,,,-0.205
+,Interest,Public debt transactions,Interest received by offbudget trust funds (903),"FOASI, Interest Received by Trust Funds",26,b,,,,-103.32
+,Interest,Public debt transactions,Interest received by offbudget trust funds (903),"FDI, Interest Received by Trust Funds",36,b,,,,-5.517
+,Interest,Public debt transactions,Other interest (908),"Earnings on Investments, Abandoned Mine Reclamation Fund",15,b,,,,-0.056
+,Interest,Public debt transactions,Other interest (908),"Interest on Loans to the Helium Fund, Department of Interior",12,b,,,,-0.175
+,Interest,Public debt transactions,Other interest (908),Interest on Loans to BPA,3,b,,,,-0.336
+,Interest,Public debt transactions,Other interest (908),Interest on Loans to Federal Financing Bank,86,b,,,,-2.626
+,Interest,Public debt transactions,Other interest (908),"Interest on Loans to National Flood Insurance Fund, DHS",59,b,,,,-0.099
+,Interest,Public debt transactions,Other interest (908),Interest on Quota in International Monetary Fund,35,b,,,,-0.055
+,Interest,Public debt transactions,Other interest (908),Interest Received from Credit Financing Accounts,44,b,,,,-52.888
+,Interest,Public debt transactions,Other interest (908),Interest on Loans and Repayable Advances to the Federal Unemployment Account,65,b,,,,-0.85
+,Interest,Public debt transactions,Other interest (908),Payment to the Resolution Funding Corporation,30,b,,,,2.628
+,Interest,Public debt transactions,Other interest (908),Interest Paid to Credit Financing Accounts,93,b,,,,12.82
+,Interest,Public debt transactions,Other interest (908),"Refunding Internal Revenue Collections, Interest",79,b,,,,3.208
+,Interest,Public debt transactions,Other interest (908),Interest on Loans or Advances to the Extended Unemployment Compensation Account,10,b,,,,-0.46
+,Interest,Public debt transactions,Other interest (908),"Earnings on Investments, Nuclear Waste Disposal Fund",23,b,,,,-1.571
+,Interest,Public debt transactions,Other interest (908),"Earnings on Investments, Decontamination and Decommissioning Fund",45,b,,,,-0.12
+,Interest,Public debt transactions,Other interest (908),"Earnings on Investments, DoD MedicareEligible Retiree Lantai dan Dinding Fund",24,b,,,,-7.43
+,Interest,Public debt transactions,Other interest (908),"Earnings on Investments, Postal Service Retiree Health Benefits Fund",19,b,,,,-1.773
+,Interest,Public debt transactions,Other interest (908),"Earnings on Investments, DC Federal Pension Fund",66,b,,,,-0.094
+,Interest,Public debt transactions,Other interest (908),"General Fund Proprietary Interest Receipts, not Otherwise Classified",46,b,,,,-0.09
+,Interest,Public debt transactions,Other investment income (909),"Gains and Losses on NonFederal Securities, National Railroad Retirement Investment Trust",78,b,,,,-0.19
+,Interest,Public debt transactions,Other investment income (909),"Interest and Dividends on NonFederal Securities, National Railroad Retirement Investment Trust",24,b,,,,-0.455
+,Interest,Public debt transactions,General  Interest on Debt (I89),,75,g,0,49.8,65,114.8
+,Balance,,,,25,g,0,0,0,0
+,Total Spending,Total,Federal Intergovernmental  General Local Government Support (B30),,0,g,-0.8,0,0,-0.8
+,Total Spending,Total,Federal Intergovernmental  All Other (B89),,0,g,-41.2,0,0,-41.2
+,Total Spending,Total,"Federal Intergovernmental  Natural Resources, Agriculture (Disc. 2005) (B54)",,0,,0,0,0,0
+,Total Spending,Total,Federal Intergovernmental  Natural Resources (B59),,0,g,-2.6,0,0,-2.6
+,Total Spending,Total,Federal Intergovernmental  Electric Utilities (B92),,0,g,-0.2,0,0,-0.2
+,Total Spending,Total,Federal Intergovernmental  Gas Utilities (B93),,0,,0,0,0,0
+,Total Spending,Total,Federal Intergovernmental  Air Transportation (B01),,0,g,-2.9,0,0,-2.9
+,Total Spending,Total,Federal Intergovernmental  Highways (B46),,0,g,-46.4,0,0,-46.4
+,Total Spending,Total,Federal Intergovernmental  Transit Utilities (B94),,0,g,-11.6,0,0,-11.6
+,Total Spending,Total,Federal Intergovernmental  Sewerage (B80),,0,g,-3.4,0,0,-3.4
+,Total Spending,Total,Federal Intergovernmental  Water Utilities (B91),,0,g,-1.7,0,0,-1.7
+,Total Spending,Total,Federal Intergovernmental  Health and Hospitals (B42),,0,g,-28.2,0,0,-28.2
+,Total Spending,Total,Intergovernmental Revenue from Federal  Environmental Health (NEW for 2007) (B43),,0,,0,0,0,0
+,Total Spending,Total,Federal Intergovernmental  Public Welfare (B79),,0,g,-337.8,0,0,-337.8
+,Total Spending,Total,Federal Intergovernmental  Education (B21),,0,g,-104.4,0,0,-104.4
+,Total Spending,Total,Federal Intergovernmental  Employment Security Administration (B22),,0,g,-5.5,0,0,-5.5
+,Total Spending,Total,Federal Intergovernmental  Housing and Community Development (B50),,0,g,-48.9,0,0,-48.9
+,Total Spending,Total,Total federal outlays (000),,3803.4,b,0,0,0,3803.4
+,Total Spending,Total,Total state/local outlays (E00),,0,g,0,"1,511.30","1,602.20",3113.5
